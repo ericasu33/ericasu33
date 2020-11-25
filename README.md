@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **ericasu33/ericasu33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -22,9 +23,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **HTML, CSS, Sass, Javascript, Express, PostgresSQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ericasu33?tab=repositories](https://github.com/ericasu33?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/ericasu33?tab=repositories](https://github.com/ericasu33?tab=repositories)
 
-- 📫 How to reach me **ericasu33@gmail.com**
+- 📫 How to reach me: **ericasu33@gmail.com**
+
+- 😄 Pronouns: SHE/HER
+
+- ⚡ Fun fact: Hobbiest/Collector at times
 
 <br>
 <h3 align="left">Connect with me:</h3>

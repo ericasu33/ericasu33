@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ericasu33&repo=tweeter)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericasu33&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericasu33&hide=sql&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Erica's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericasu33&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 

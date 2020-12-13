@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">Passionate and avid learner of full stack technology from Canada</h3>
 <br />
 
-- 🌱 I’m currently learning **HTML, CSS, Sass, Javascript, Express, PostgresSQL**
+- 🌱 I’m currently learning **HTML, CSS, Sass, Javascript, Express, PostgresSQL, React**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/ericasu33?tab=repositories](https://github.com/ericasu33?tab=repositories)
 
